@@ -164,7 +164,7 @@
             data-delay="1400"
             data-duration="1000"
             data-effect="right(50)"
-            data-ease="easeOutExpo"> <a href="https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=10114"><i class="fa fa-angle-right" aria-hidden="true"></i> Page aqui</a> </div>
+            data-ease="easeOutExpo"> <a href="https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=10114"><i class="fa fa-angle-right" aria-hidden="true"></i> Pague aqui</a> </div>
       </div>
 
       <!-- slide 2 -->
