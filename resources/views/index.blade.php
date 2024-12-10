@@ -137,7 +137,8 @@
       <!-- slide 1 -->
       <div class="ms-slide slide-1" data-delay="14">
         <!-- slide background -->
-        <img src="masterslider/blank.gif" data-src="images/masterslider/baner01.jpg" alt="Slide1 background"/>
+          <img src="masterslider/blank.gif" data-src="images/masterslider/slide-bg-21.jpg" alt="Slide1 background"/>
+
         <!--h3 class="ms-layer title1 white uppercase text-center"
 			style="left:0px; top: 280px;"
 			data-type="text"
@@ -157,20 +158,20 @@
             data-delay="1600"
             data-duration="1000"
             data-effect="left(50)"
-            data-ease="easeOutExpo"> <a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i> Read More!</a> </div-->
-        <!--div class="ms-layer btn5 sty4"
+            data-ease="easeOutExpo"> <a href="https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=10114"><i class="fa fa-angle-right" aria-hidden="true"></i> Read More!</a> </div-->
+        <div class="ms-layer btn5 sty4"
 			style="left: 695px; top: 510px;"
             data-delay="1400"
             data-duration="1000"
             data-effect="right(50)"
-            data-ease="easeOutExpo"> <a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i> Purchase Now!</a> </div-->
+            data-ease="easeOutExpo"> <a href="https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=10114"><i class="fa fa-angle-right" aria-hidden="true"></i> Page aqui</a> </div>
       </div>
 
       <!-- slide 2 -->
-      <!--div class="ms-slide slide-1" data-delay="14"-->
+      <div class="ms-slide slide-1" data-delay="14">
         <!-- slide background -->
-        <!--img src="masterslider/blank.gif" data-src="images/masterslider/slide-bg-21.jpg" alt="Slide1 background"/>
-        <h3 class="ms-layer title2 white"
+          <img src="masterslider/blank.gif" data-src="images/masterslider/baner01.jpg" alt="Slide1 background"/>
+        <!--h3 class="ms-layer title2 white"
 			style="left:100px;top:240px;"
 			data-type="text"
             data-effect="bottom(45)"
@@ -198,14 +199,14 @@
             data-effect="bottom(45)"
             data-duration="1000"
             data-delay="1700"
-            data-ease="easeOutExpo"> <a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i> Read More!</a> </div>
+            data-ease="easeOutExpo"> <a href="https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=10114"><i class="fa fa-angle-right" aria-hidden="true"></i>Boton de Pago</a> </div>
         <div class="ms-layer btn6 nodisplay"
 			style="left: 275px; top:525px;"
             data-type="text"
             data-effect="bottom(45)"
             data-duration="1000"
             data-delay="1700"
-            data-ease="easeOutExpo"> <a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i> Purchase Now!</a> </div>
+            data-ease="easeOutExpo"> <a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i> Purchase Now!</a> </div-->
       </div-->
       <!-- slide 3 -->
       <!--div class="ms-slide slide-2" data-delay="10"-->
